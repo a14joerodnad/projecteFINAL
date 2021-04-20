@@ -1,5 +1,7 @@
 # proyecto_final
 
+## Gerard Chicote Es un mono
+
 ## Project setup
 ```
 npm install
