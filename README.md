@@ -1,6 +1,6 @@
 # proyecto_final
 
-## Gerard Chicote Es un mono
+## Gerard Chicote, Joel Rodriguez, Carlos Erencia, Jordi Cervera
 
 ## Project setup
 ```
