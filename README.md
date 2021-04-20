@@ -1,4 +1,4 @@
-# proyecto_final
+# Projecte final
 
 ## Gerard Chicote, Joel Rodriguez, Carlos Erencia, Jordi Cervera
 
